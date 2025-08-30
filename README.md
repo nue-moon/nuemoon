@@ -1,10 +1,10 @@
-• eben/Roman
+• stargram/Roman
 
-• i like drawing and writing
+• main passion is art
 
-• learning how to code in Python, HTML, and CSS
+• future cybersecurity major
 
-• Discord: ebenuke, though FRs are off unless we have mutuals
+• Discord: stargrm, though FRs are off unless we have mutuals
 
 <!---
 parelle/parelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
