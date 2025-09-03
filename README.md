@@ -4,7 +4,7 @@
 
 • future cybersecurity major
 
-• Discord: stargrm, though FRs are off unless we have mutuals
+• Discord: stargrm
 
 <!---
 parelle/parelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
