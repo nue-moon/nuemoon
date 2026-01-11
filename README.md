@@ -1,12 +1,5 @@
-• stargram/Roman
+• nue(moon)/Roman
 
-• main passion is art
+• I love art, it's my biggest passion
 
-• future cybersecurity major
-
-• Discord: stargrm
-
-<!---
-parelle/parelle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• Planning to either do cybersecurity, networking, or building PCs (main dream)
